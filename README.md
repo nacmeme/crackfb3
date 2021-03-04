@@ -11,7 +11,7 @@
 - $ pkg install git
 - $ pip2 install requests
 - $ pip2 install mechanize
-- $ https://github.com/nacmeme/crackfb3
+- $ git clone https://github.com/nacmeme/crackfb3
 ## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
 - $ cd crackfb3
 - $ python2 crackfb3.py
